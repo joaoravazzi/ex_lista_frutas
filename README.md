@@ -25,4 +25,4 @@ O programa permite:
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/varejao-gen.git
+   git clone https://github.com/joaoravazzi/ex_lista_frutas.git
