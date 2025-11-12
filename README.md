@@ -26,3 +26,17 @@ O programa permite:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/joaoravazzi/ex_lista_frutas.git
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd varejao-gen
+   
+3. Execute o script Python:
+   ```bash
+   python lista.py
+
+4. Interaja pelo terminal:
+- Escolha uma das opções do menu.
+- Adicione, visualize ou exclua frutas conforme desejar.
+
+
