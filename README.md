@@ -14,7 +14,7 @@ O programa permite:
 ---
 
 ## ⚙️ Tecnologias utilizadas
-- **Python 3**
+- **Python 3** 
 - Estruturas de repetição (`while`)
 - Estruturas condicionais (`if/else`)
 - Listas (`append()`, `pop()`)
